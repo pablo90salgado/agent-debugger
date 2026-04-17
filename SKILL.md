@@ -1,13 +1,7 @@
 ---
 name: agent-debugger
-description: |
-  Debugs errors and traces failures in AI agents and their tools.
-  Use this skill when the user says: "the agent is failing", "tool call
-  not working", "error in the pipeline", "debug this", "why is the agent
-  doing X instead of Y", "trace the execution", "agent is stuck",
-  "infinite loop", "model response won't parse", "context overflow".
-  Identifies context errors, infinite loops, malformed tool calls,
-  response parsing issues and subagent conflicts.
+description: Debugs errors and traces failures in AI agents and their tools. Identifies context errors, infinite loops, malformed tool calls, response parsing issues and subagent conflicts.
+license: MIT
 ---
 
 # Agent Debugger
